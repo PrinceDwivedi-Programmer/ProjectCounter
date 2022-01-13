@@ -1,0 +1,37 @@
+.body {
+
+                background-color: #48C9B0;
+
+}
+
+.maindiv {
+
+
+                display: flex;
+                justify-content: space-evenly;
+                align-items: center;
+                color: white;
+
+}
+
+.child {
+
+
+                margin-top: 15%;
+                text-align: center;
+
+
+}
+
+.label {
+
+
+                font-size: 28px;
+                font-weight: bold;
+}
+
+.counter {
+                font-size: 48px;
+                font-weight: bold;
+                color: #2E4053
+}
